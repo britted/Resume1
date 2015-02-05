@@ -1,0 +1,87 @@
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: #FFFFFF;
+}
+
+header{
+	text-align: center;
+	margin-left: 30px;
+	color: #29A6CF;
+	font-size: 8pt;
+	width: 40%
+}
+
+h1{
+	text-align: center;
+	margin-bottom: 0;
+	font-size: 24pt;
+}
+
+a{
+	text-decoration: none;
+	color: #29A6CF;
+}
+
+a:hover{
+	color: #7A7A52;
+}
+
+a:link{
+	color: #29A6CF;
+}
+
+p{
+	font-size: 8pt;
+}
+
+.summary{
+	margin: 0% 10% 1% 10%;
+	color: #7A7A52;
+}
+
+li{
+	float: left;
+	color: #7A7A52;
+}
+.description{
+	list-style-type: circle;
+	font-size: 8pt;
+}
+
+.edu{
+	margin:0% 1% 0% 1%;
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 18%
+	padding-right:15px;
+	/*background-color: #29A6CF;*/
+	/*color:#FFFFFF;*/
+}
+.work{
+	margin:0% 1% 0% .3%;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 37%;
+	border-left: dotted;
+}
+
+.international{
+	margin:0% 1% 0% .3%;
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 30%;
+}
+.activities{
+	margin:0% 1% 0% .3%;
+	padding-left: 10px;
+	padding-right: 10px;
+	width:30%;
+}
+
+.skills{
+	margin:0% 1% 0% .3%;
+	padding-left: 10px;
+	padding-right: 10px;
+	width:30%;
+}
+
